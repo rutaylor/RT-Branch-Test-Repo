@@ -1,0 +1,8 @@
+{'id': '641', 'name': 'FIREFOX', 'label': 'Firefox', 'vocabularyEntryId': 437, 'visible': True}
+{'id': '642', 'name': 'GOOGLE_CHROME', 'label': 'Google Chrome', 'vocabularyEntryId': 438, 'visible': True}
+{'id': '643', 'name': 'INTERNET_EXPLORER', 'label': 'Internet Explorer', 'vocabularyEntryId': 439, 'visible': True}
+{'id': '644', 'name': 'MICROSOFT_EDGE', 'label': 'Microsoft Edge', 'vocabularyEntryId': 440, 'visible': True}
+{'id': '645', 'name': 'MOZILLA', 'label': 'Mozilla', 'vocabularyEntryId': 441, 'visible': True}
+{'id': '646', 'name': 'SAFARI', 'label': 'Safari', 'vocabularyEntryId': 442, 'visible': True}
+{'id': '643', 'name': 'OTHER', 'label': 'Other', 'vocabularyEntryId': 519, 'visible': True}
+{'id': '643', 'name': 'UNKNOWN', 'label': 'Unknown', 'vocabularyEntryId': 518, 'visible': True}
